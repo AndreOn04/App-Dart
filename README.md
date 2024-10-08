@@ -24,3 +24,10 @@ Escolha uma opção:
 4. Excluir username
 5. Sair
 ```
+## Opção 1.
+Se o usuário selecionar a opção 1 , ele será solicitado a inserir um nome de usuário, que será adicionado à lista:
+```
+Insira um nome:
+> Alice
+Adicionado
+```
