@@ -28,7 +28,7 @@ Escolha uma opção:
 Se o usuário selecionar a opção 1 , ele será solicitado a inserir um nome de usuário, que será adicionado à lista:
 ```
 Insira um nome:
-> Alice
+> Andre
 Adicionado
 ```
 
