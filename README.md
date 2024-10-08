@@ -39,5 +39,5 @@ Selecionar 2 exibirá todos os nomes de usuários armazenados:
 ```
 * O usuário também pode editar ou excluir nomes de usuários existentes usando as opções 3 e 4 , respectivamente.
 
-## Saindo do aplicativo
-Para sair do aplicativo, o usuário pode digitar ```5```:
+## Encerrar o Programa
+Para encerrar o programa, o usuário pode digitar ```5```:
