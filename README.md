@@ -10,4 +10,6 @@ O programa começa apresentando ao usuário um menu de opções:
 * Ver nomes de usuários. <br>
 *  Editar um nome de usuário. <br>
 *  Excluir um nome de usuário. <br>
-*  aída. <br>
+*  Saída. <br>
+
+O usuário pode inserir uma das opções digitando o número correspondente. Após selecionar uma opção, o programa solicitará ao usuário uma entrada adicional (se necessário) e executará a ação solicitada.
