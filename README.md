@@ -6,8 +6,8 @@ Os usuários podem adicionar, visualizar, editar ou excluir nomes de usuários p
 ### Como funciona
 O programa começa apresentando ao usuário um menu de opções:
 
-Adicione um nome de usuário.
-Ver nomes de usuários.
-Editar um nome de usuário.
-Excluir um nome de usuário.
-Saída.
+Adicione um nome de usuário. <br> 
+Ver nomes de usuários. <br>
+Editar um nome de usuário. <br>
+Excluir um nome de usuário. <br>
+Saída. <br>
