@@ -31,3 +31,10 @@ Insira um nome:
 > Alice
 Adicionado
 ```
+
+## Opção 2.
+Selecionar 2 exibirá todos os nomes de usuários armazenados:
+```
+[André, John]
+```
+
