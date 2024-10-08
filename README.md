@@ -13,3 +13,14 @@ O programa começa apresentando ao usuário um menu de opções:
 *  Saída. <br>
 
 O usuário pode inserir uma das opções digitando o número correspondente. Após selecionar uma opção, o programa solicitará ao usuário uma entrada adicional (se necessário) e executará a ação solicitada.
+
+## Exemplo de interação
+```
+Escolha uma opção:
+
+1. Gravar username
+2. Ver username
+3. Editar username
+4. Excluir username
+5. Sair
+```
