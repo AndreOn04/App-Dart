@@ -41,3 +41,20 @@ Selecionar 2 exibirá todos os nomes de usuários armazenados:
 
 ## Encerrar o Programa
 Para encerrar o programa, o usuário pode digitar ```5```:
+
+## Requisitos
+* Dart SDK (versão 2.12 ou superior)
+* Interface de linha de comando (CLI) para executar o aplicativo
+
+## Executando o programa
+1. Certifique-se de ter o Dart SDK instalado.
+2. Clone o repositório ou baixe o arquivo Dart.
+3. Abra seu terminal ou prompt de comando.
+4. Navegue até o diretório do projeto e execute o seguinte comando:
+
+```dart run your_filename.dart```
+5. Siga as instruções na tela para interagir com o aplicativo.
+
+## Notas
+* O aplicativo usa ```stdin.readLineSync()``` a entrada do usuário, então é necessário fornecer uma entrada válida para cada opção.
+A lista de nomes de usuários ```( db)``` é armazenada na memória e será perdida quando o aplicativo for fechado.
