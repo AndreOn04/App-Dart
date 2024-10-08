@@ -52,7 +52,7 @@ Para encerrar o programa, o usuário pode digitar ```5```:
 3. Abra seu terminal ou prompt de comando.
 4. Navegue até o diretório do projeto e execute o seguinte comando:
 
-```dart run nomeArquivo.dart```
+```dart run nomeArquivo.dart``` <br>
 5. Siga as instruções na tela para interagir com o aplicativo.
 
 ## Notas
